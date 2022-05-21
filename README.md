@@ -8,7 +8,7 @@
 
 #### 4. 点击按钮来部署
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Ccnikola1/asd)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Ccnikola/asd)
 
 ## 对部署时需设定的变量名称做如下说明。
 
