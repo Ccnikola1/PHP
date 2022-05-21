@@ -4,7 +4,7 @@
 
 #### 2. 修改专案名称，注意不要包含 `v2ray` 和 `heroku` 两个关键字（修改后的专案名以 `demo` 为例）
 
-#### 3. 修改 `README.md`，将 `bclswl0827/v2ray-heroku` 替换为自己的内容（如 `example/demo`）
+#### 3. 修改 `README.md`，将 `Ccnikola/asd` 替换为自己的内容（如 `example/demo`）
 
 #### 4. 点击按钮来部署
 
