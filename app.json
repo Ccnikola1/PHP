@@ -1,7 +1,7 @@
 {
-    "name": "net",
-    "description": "net",
-    "keywords": ["net"],
+    "name": "PHP",
+    "description": "PHP",
+    "keywords": ["PHP"],
     "env": {
         "ID": {
             "description": "UUID",
